@@ -1,7 +1,7 @@
 repo_name: DotEsparto1/flutter-demo-app-public
-report_id: 22c0f7a426fa7f7735dbc1ce9b8013dd
+report_id: 36284c11e50c563f8f789e50610d69ac
 repo_type: Public
-timestamp: '2023-11-08T11:13:03+00:00'
+timestamp: '2023-11-09T12:35:06+00:00'
 requested_by: are-pubnub
 provider: github
 branch: master
@@ -98,6 +98,8 @@ tools:
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
   detection_source_url: android/app/build.gradle
   detection_source: android/app/build.gradle
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-18 16:52:19.000000000 Z
 - name: Flutter
   description: Cross-platform mobile framework from Google
   website_url: https://flutter.io/
@@ -108,6 +110,8 @@ tools:
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
   detection_source: pubspec.yaml
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-23 10:11:12.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -118,6 +122,8 @@ tools:
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source: functions/package.json
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-23 13:31:20.000000000 Z
 - name: Dotenv
   description: Loads environment variables from .env for Nodejs projects
   website_url: https://github.com/motdotla/dotenv
@@ -128,6 +134,8 @@ tools:
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
   detection_source: functions/package.json
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-27 17:21:45.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -147,6 +155,8 @@ tools:
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
   detection_source: android/app/build.gradle
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-18 16:52:19.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -156,6 +166,8 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: functions/package.json
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-23 13:31:20.000000000 Z
 - name: rollup
   description: The next-generation JavaScript module bundler
   website_url: http://rollupjs.org/
@@ -165,6 +177,8 @@ tools:
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
   detection_source: functions/package.json
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-27 17:21:45.000000000 Z
 - name: Android OS
   description: An open source mobile operating system by Google
   website_url: https://www.android.com
@@ -176,6 +190,8 @@ tools:
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
   detection_source_url: android/app/build.gradle
   detection_source: android/app/build.gradle
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-18 16:52:19.000000000 Z
 - name: CocoaPods
   description: A dependency manager for Swift and Objective-C Cocoa projects
   website_url: https://cocoapods.org/
@@ -185,6 +201,8 @@ tools:
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
   detection_source: ios/Podfile.lock
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-23 10:11:12.000000000 Z
 - name: Distrobird
   description: Manage your entire sales process in one place
   website_url: https://www.distrobird.com/
@@ -194,6 +212,8 @@ tools:
   image_url: https://img.stackshare.io/empty-logo-square.png
   detection_source_url: pubspec.lock
   detection_source: pubspec.yaml
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-23 10:11:12.000000000 Z
 - name: "@types/node"
   description: TypeScript definitions for Node.js
   package_url: https://www.npmjs.com/@types/node
@@ -206,3 +226,5 @@ tools:
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: functions/package-lock.json
   detection_source: functions/package.json
+  last_updated_by: Artur Wojciechowski
+  last_updated_on: 2020-04-23 13:31:20.000000000 Z
