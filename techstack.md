@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/flutter-demo-app-public](https://github.com/DotEsparto1/flutter-demo-app-public)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|12/01/23 <br/>Report generated|
+|19<br/>Tools used|12/11/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -223,7 +223,7 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@types/node](https://www.npmjs.com/@types/node)|v13.13.2|N/A|N/A |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v13.13.2|04/23/20|Artur Wojciechowski |MIT|N/A|
 
 <br/>
 <div align='center'>
