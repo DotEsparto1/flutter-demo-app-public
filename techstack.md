@@ -48,7 +48,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEsparto1/flutter-demo-app-public](https://github.com/DotEsparto1/flutter-demo-app-public)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|19<br/>Tools used|12/11/23 <br/>Report generated|
+|19<br/>Tools used|01/02/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -206,7 +206,7 @@ Full tech stack [here](/techstack.md)
 </td>
 
 <td align='center'>
-  <img width='36' height='36' src='https://img.stackshare.io/empty-logo-square.png' alt='Distrobird'>
+  <img width='36' height='36' src='https://img.stackshare.io/service/102000/default_1b3e5006ec91e7cf004b922dac7fdde656196232.png' alt='Distrobird'>
   <br>
   <sub><a href="https://www.distrobird.com/">Distrobird</a></sub>
   <br>
