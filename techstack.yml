@@ -1,8 +1,8 @@
 repo_name: DotEsparto1/flutter-demo-app-public
-report_id: a395861fd370fe9f187ef8360baf2df4
+report_id: 81ee6da57ae9562a86d57629638158c4
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-08T11:57:16+00:00'
+timestamp: '2024-02-27T16:31:14+00:00'
 requested_by: are-pubnub
 provider: github
 branch: master
@@ -63,7 +63,7 @@ tools:
   detection_source_url: https://github.com/DotEsparto1/flutter-demo-app-public
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
